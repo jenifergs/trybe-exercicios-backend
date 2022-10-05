@@ -5,7 +5,7 @@ Repositório destinado a exercícios na stack backend
 
 <h3>Organizacao: 
  <br/>
- * `Javascript`
+* `Javascript`
 * `secao/dia/nome-do-exercicio-ou-tema`
  
 </h3>
